@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /apps-script/
+Disallow: /.claude/
+
+Sitemap: https://arcongrowth.com/sitemap.xml
